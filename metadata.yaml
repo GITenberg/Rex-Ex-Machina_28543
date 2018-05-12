@@ -1,0 +1,26 @@
+_repo: Rex-Ex-Machina_28543
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Max, Frederic
+    gutenberg_agent_id: '33391'
+    url: http://www.gutenberg.org/2009/agents/33391
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28543'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Rex Ex Machina
+url: http://www.gutenberg.org/ebooks/28543
